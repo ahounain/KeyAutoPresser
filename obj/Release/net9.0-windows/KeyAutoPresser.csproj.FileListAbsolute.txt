@@ -1,0 +1,14 @@
+C:\Users\aliho\crap\KeyAutoPresser\obj\Release\net9.0-windows\KeyAutoPresser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliho\crap\KeyAutoPresser\obj\Release\net9.0-windows\KeyAutoPresser.AssemblyInfoInputs.cache
+C:\Users\aliho\crap\KeyAutoPresser\obj\Release\net9.0-windows\KeyAutoPresser.AssemblyInfo.cs
+C:\Users\aliho\crap\KeyAutoPresser\obj\Release\net9.0-windows\KeyAutoPresser.csproj.CoreCompileInputs.cache
+C:\Users\aliho\crap\KeyAutoPresser\bin\Release\net9.0-windows\KeyAutoPresser.exe
+C:\Users\aliho\crap\KeyAutoPresser\bin\Release\net9.0-windows\KeyAutoPresser.deps.json
+C:\Users\aliho\crap\KeyAutoPresser\bin\Release\net9.0-windows\KeyAutoPresser.runtimeconfig.json
+C:\Users\aliho\crap\KeyAutoPresser\bin\Release\net9.0-windows\KeyAutoPresser.dll
+C:\Users\aliho\crap\KeyAutoPresser\bin\Release\net9.0-windows\KeyAutoPresser.pdb
+C:\Users\aliho\crap\KeyAutoPresser\obj\Release\net9.0-windows\KeyAutoPresser.dll
+C:\Users\aliho\crap\KeyAutoPresser\obj\Release\net9.0-windows\refint\KeyAutoPresser.dll
+C:\Users\aliho\crap\KeyAutoPresser\obj\Release\net9.0-windows\KeyAutoPresser.pdb
+C:\Users\aliho\crap\KeyAutoPresser\obj\Release\net9.0-windows\KeyAutoPresser.genruntimeconfig.cache
+C:\Users\aliho\crap\KeyAutoPresser\obj\Release\net9.0-windows\ref\KeyAutoPresser.dll
